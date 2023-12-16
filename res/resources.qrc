@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/new/main">
+        <file>blank.png</file>
+        <file>buttondefault.png</file>
+        <file>buttonhover.png</file>
+        <file>buttonpressed.png</file>
+    </qresource>
+</RCC>
